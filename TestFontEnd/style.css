@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    display: flex;
+    background-color: white;
+    width: 1768px;
+    height: 935px;
+}
+.Heder {
+    height: 935px;
+    width: 150px;
+    left: 0px;
+    top: 938px;
+    border-radius: 0px;
+    background: #191718;
+
+}
+.Nabar-menu{
+
+}
+.Nabar-menu ul {
+    padding: 0;
+}
+.Nabar-menu ul li {
+    list-style: none;
+    border-bottom: 1px solid white;
+    padding-left: 12px;
+    height: 44px;
+    width: 150px;
+     left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    line-height: 44px;
+}
+.Nabar-menu ul li:hover {
+    background: #5C5C5C;
+    cursor: pointer;
+}
+.Nabar-menu ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    
+}
+.Content-logo img{
+height: 122px;
+width: 310px;
+border-radius: 0px;
+
+}
+.Content-logo{
+    height: 122px;
+    text-align: center;
+    margin: 20px 0;
+
+
+
+}
+.Content{
+ margin: 0 130px;  
+ height: 935px; 
+}
+
+.Content_1{
+    background-color: #efefef;
+    margin: 10px 0 30px;
+    height: 210px;
+    width: 1510px;
+    left: 279px;
+}
+.Content_1 h2 {
+    text-align: center;
+    padding: 18px 0;
+    font-size: 18px;
+}
+.Content_1 p {
+    line-height: 18.75px;
+    padding: 0 269px;
+    text-align: center;
+    font-size: 16px;
+}
+.content_2 {
+    display: flex;
+    justify-content: space-between;
+}
+.content_2-1 h1{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.content_2-1 img{
+    height: 128px;
+    width: 128px;
+    left: 279px;
+    top: 1406px;
+    border-radius: 0px;
+    
+}
+.content_2-1{
+height: 252px;
+width: 470px;
+left: 279px;
+top: 1360px;
+border-radius: 0px;
+
+}
+.content_2-1-fl{
+    display: flex;
+    margin: 18px 0 0;
+}
+.content_2-1-fl p{
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.Footer {
+    width: 1768px;
+    height: 79px;
+    margin-left: 150px;
+    line-height: 79px;
+    border-top: 1px solid;
+    position: relative;
+    bottom: 79px;
+}
+.Footer p{
+    margin-left: 130px;
+}
